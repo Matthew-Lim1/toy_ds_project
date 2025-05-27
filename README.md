@@ -1,2 +1,2 @@
 # toy_ds_project
-Template project repository for DSCI-100
+Project creation date: May 27th 2025
