@@ -1,2 +1,2 @@
-# dsci-100-project_template
+# toy_ds_project
 Template project repository for DSCI-100
